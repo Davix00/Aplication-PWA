@@ -3,7 +3,7 @@ const STATIC_CACHE = "static-v1";
 
 //define los archivos que vamos a guardar en la cache
 const APP_SHELL = [
-  "/https://davix00.github.io/pwa.github.io/",
+  "/https://davix00.github.io/pwa.github.io",
   "index.html",
   "css/styles.css",
   "js/main.js",
