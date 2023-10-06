@@ -1,5 +1,8 @@
-# pwa.github.io
-Ejemplo de un PWA
+# PWA Ejemplo
+Ejemplo de una PWA
 
-![Pagina princilap](/images/pagina_principal.png)
+![Pagina principal](/images/pagina_principal.png)
+
+# Instalación en celular
+
 
