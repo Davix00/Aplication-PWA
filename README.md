@@ -6,6 +6,6 @@ Ejemplo en el navegador web
 # Instalación en celular
 
 Ejemplo de aplicación instalada en el celular
-![Pagina principal](/images/pagina_secundaria.png)
+![Pagina secundaria](/images/pagina_secundaria.jpg)
 
 
